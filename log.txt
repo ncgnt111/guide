@@ -1,0 +1,2 @@
+{'ok': True, 'result': {'is_bot': True, 'id': 473559457, 'username': 'ncgnt111bot', 'first_name': 'ncgnt111bot'}}
+
